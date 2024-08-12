@@ -17,6 +17,7 @@ h1 {
   position: relative;
   font-family: 'Source Code Pro', monospace;
   width: max-content;
+  margin: 0 auto;
 }
 
 h1::before,
