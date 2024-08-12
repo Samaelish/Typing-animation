@@ -12,9 +12,8 @@ body {
   text-align: center;
   background: var(--bg-color);
 }
-
 h1 {
-  font-size: clamp(1rem, 3vw + 1rem, 4rem);
+  font-size: clamp(0.75rem, 3vw + 0.75rem, 3rem);
   position: relative;
   font-family: 'Source Code Pro', monospace;
   width: max-content;
